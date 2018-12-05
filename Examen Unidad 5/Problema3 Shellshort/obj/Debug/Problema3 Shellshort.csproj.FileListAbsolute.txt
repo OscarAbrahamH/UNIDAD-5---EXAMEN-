@@ -1,0 +1,12 @@
+C:\Users\Abraham\Desktop\Problema3 Shellshort\bin\Debug\Problema3 Shellshort.exe.config
+C:\Users\Abraham\Desktop\Problema3 Shellshort\bin\Debug\Problema3 Shellshort.exe
+C:\Users\Abraham\Desktop\Problema3 Shellshort\bin\Debug\Problema3 Shellshort.pdb
+C:\Users\Abraham\Desktop\Problema3 Shellshort\obj\Debug\Problema3 Shellshort.csprojResolveAssemblyReference.cache
+C:\Users\Abraham\Desktop\Problema3 Shellshort\obj\Debug\Problema3 Shellshort.exe
+C:\Users\Abraham\Desktop\Problema3 Shellshort\obj\Debug\Problema3 Shellshort.pdb
+C:\Users\Abraham\Desktop\Examen Unidad 5\Problema3 Shellshort\bin\Debug\Problema3 Shellshort.exe.config
+C:\Users\Abraham\Desktop\Examen Unidad 5\Problema3 Shellshort\obj\Debug\Problema3 Shellshort.exe
+C:\Users\Abraham\Desktop\Examen Unidad 5\Problema3 Shellshort\obj\Debug\Problema3 Shellshort.pdb
+C:\Users\Abraham\Desktop\Examen Unidad 5\Problema3 Shellshort\bin\Debug\Problema3 Shellshort.exe
+C:\Users\Abraham\Desktop\Examen Unidad 5\Problema3 Shellshort\bin\Debug\Problema3 Shellshort.pdb
+C:\Users\Abraham\Desktop\Examen Unidad 5\Problema3 Shellshort\obj\Debug\Problema3 Shellshort.csprojResolveAssemblyReference.cache

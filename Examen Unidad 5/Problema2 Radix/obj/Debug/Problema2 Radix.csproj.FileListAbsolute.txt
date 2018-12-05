@@ -1,0 +1,6 @@
+C:\Users\Abraham\Desktop\Problema2 Radix\bin\Debug\Problema2 Radix.exe.config
+C:\Users\Abraham\Desktop\Problema2 Radix\obj\Debug\Problema2 Radix.csprojResolveAssemblyReference.cache
+C:\Users\Abraham\Desktop\Problema2 Radix\bin\Debug\Problema2 Radix.exe
+C:\Users\Abraham\Desktop\Problema2 Radix\bin\Debug\Problema2 Radix.pdb
+C:\Users\Abraham\Desktop\Problema2 Radix\obj\Debug\Problema2 Radix.exe
+C:\Users\Abraham\Desktop\Problema2 Radix\obj\Debug\Problema2 Radix.pdb

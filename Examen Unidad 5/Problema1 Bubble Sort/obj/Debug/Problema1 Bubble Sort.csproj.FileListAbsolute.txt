@@ -1,0 +1,6 @@
+C:\Users\Abraham\Desktop\Problema1 Bubble Sort\bin\Debug\Problema1 Bubble Sort.exe.config
+C:\Users\Abraham\Desktop\Problema1 Bubble Sort\bin\Debug\Problema1 Bubble Sort.exe
+C:\Users\Abraham\Desktop\Problema1 Bubble Sort\bin\Debug\Problema1 Bubble Sort.pdb
+C:\Users\Abraham\Desktop\Problema1 Bubble Sort\obj\Debug\Problema1 Bubble Sort.csprojResolveAssemblyReference.cache
+C:\Users\Abraham\Desktop\Problema1 Bubble Sort\obj\Debug\Problema1 Bubble Sort.exe
+C:\Users\Abraham\Desktop\Problema1 Bubble Sort\obj\Debug\Problema1 Bubble Sort.pdb
